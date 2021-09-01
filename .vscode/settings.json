@@ -1,0 +1,8 @@
+{
+    "cSpell.ignoreWords": [
+        "imshow"
+    ],
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
